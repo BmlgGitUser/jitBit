@@ -1,13 +1,23 @@
-<script>
-    var hdWidget = {
-        position: "right",
-        bgColor: "#4c5b6b",
-        fgColor: "#ffffff",
-        borderColor: "#fff",
-        categoryId: 42,
-        hideCategory: 0,
-        autoShow: 0,
-        email: "",
-    };
-</script>
-<script src='https://support.burkemoore.com/helpdesk/js/support-widget-light.js' defer></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jitbit Helpdesk Widget</title>
+    <script>
+        var hdWidget = {
+            position: "right",
+            bgColor: "#4c5b6b",
+            fgColor: "#ffffff",
+            borderColor: "#fff",
+            categoryId: 42,
+            hideCategory: 0,
+            autoShow: 0,
+            email: "",
+        };
+    </script>
+    <script src='https://support.burkemoore.com/helpdesk/js/support-widget-light.js' defer></script>
+</head>
+<body>
+</body>
+</html>
